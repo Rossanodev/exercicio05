@@ -1,0 +1,29 @@
+body{
+    font: normal 15pt arial;
+    text-align: center;
+    background: rgb(206, 243, 240);
+}
+
+header{
+    text-align: center;
+    font-size: 20pt;
+}
+
+section{
+    background: rgb(43, 149, 156);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    text-align: left;
+    box-shadow:  rgb(15, 3, 3);
+
+}
+
+p#select#flista{
+    width: 150px;
+}
+
+footer{
+    text-align: center;
+}
